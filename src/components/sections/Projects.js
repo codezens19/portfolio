@@ -153,7 +153,7 @@ const openSourceProjects = [
 const Projects = () => (
   <ProjectsSection>
     <ProjectsContainer>
-      <ProjectsTitle>Products & Platforms</ProjectsTitle>
+      <ProjectsTitle>Projects</ProjectsTitle>
       <ProjectsGrid>
         {productProjects.map((project, idx) => (
           <ProjectCard key={idx}>

@@ -140,8 +140,8 @@ const Contact = () => (
         <ContactTitle>Contact me:</ContactTitle>
         <ContactInfo>
           <InfoRow><FaLinkedin /> <a href="https://www.linkedin.com/in/diwakar19/" target="_blank" rel="noopener noreferrer">in/diwakar19</a></InfoRow>
-          <InfoRow><FaEnvelope /> diwakar.singh.961903@gmail.com</InfoRow>
-          <InfoRow><FaWhatsapp /> +91 9897889332</InfoRow>
+          <InfoRow><FaEnvelope />diwakar.singh.961903@gmail.com</InfoRow>
+          <InfoRow><FaWhatsapp />+91 9897889332</InfoRow>
           <InfoRow><FaMedium /> <a href="https://medium.com/@diwakersingh31" target="_blank" rel="noopener noreferrer">@diwakersingh31</a></InfoRow>
           <InfoRow><FaGithub /> <a href="https://github.com/codezens19" target="_blank" rel="noopener noreferrer">github.com/codezens19</a></InfoRow>
           <InfoRow><FaCode /> <a href="https://leetcode.com/u/diwakar19/" target="_blank" rel="noopener noreferrer">leetcode.com/diwakar19</a></InfoRow>
